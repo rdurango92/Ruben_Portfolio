@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🗃️ Projects on 🌎 Rubén Durango En</title>
+    <link>https://github.com/rdurango92/Ruben_Portfolio/en/post/</link>
+    <description>Recent content in 🗃️ Projects on 🌎 Rubén Durango En</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/rdurango92/Ruben_Portfolio/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting accessibility</title>
+      <link>https://github.com/rdurango92/Ruben_Portfolio/en/post/project-1/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/rdurango92/Ruben_Portfolio/en/post/project-1/</guid>
+      <description>Case Study Project - Wheelchair Ramps👩‍🦽 This was a case study proposed on the Datacamp platform, and in this notebook I present my findings.
+ Problem Statement and context 📝.  &amp;ldquo;🎊 Congratulations🎉, you have landed your first job as a data scientist at National Accessibility&amp;rdquo;
+ National Accessibility currently installs wheelchair ramps for office buildings and schools. However, the marketing manager wants the company to start installing ramps for event venues as well.</description>
+    </item>
+    
+  </channel>
+</rss>
