@@ -2,95 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/rdurango92/Ruben_Portfolio/en/</loc>
+    <loc>https://rdurango92.github.io/Ruben_Portfolio/en/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/rdurango92/Ruben_Portfolio/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/rdurango92/Ruben_Portfolio/en/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/en/"
                 />
   </url><url>
-    <loc>https://github.com/rdurango92/Ruben_Portfolio/en/post/project-1/</loc>
+    <loc>https://rdurango92.github.io/Ruben_Portfolio/en/post/project-1/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://github.com/rdurango92/Ruben_Portfolio/en/post/</loc>
+    <loc>https://rdurango92.github.io/Ruben_Portfolio/en/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/rdurango92/Ruben_Portfolio/post/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/rdurango92/Ruben_Portfolio/en/post/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/en/post/"
                 />
   </url><url>
-    <loc>https://github.com/rdurango92/Ruben_Portfolio/en/categories/</loc>
+    <loc>https://rdurango92.github.io/Ruben_Portfolio/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/rdurango92/Ruben_Portfolio/categories/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/rdurango92/Ruben_Portfolio/en/categories/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/en/categories/"
                 />
   </url><url>
-    <loc>https://github.com/rdurango92/Ruben_Portfolio/en/tags/</loc>
+    <loc>https://rdurango92.github.io/Ruben_Portfolio/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/rdurango92/Ruben_Portfolio/tags/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/rdurango92/Ruben_Portfolio/en/tags/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/en/tags/"
                 />
   </url><url>
-    <loc>https://github.com/rdurango92/Ruben_Portfolio/en/contact/</loc>
+    <loc>https://rdurango92.github.io/Ruben_Portfolio/en/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/rdurango92/Ruben_Portfolio/contact/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/rdurango92/Ruben_Portfolio/en/contact/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/en/contact/"
                 />
   </url><url>
-    <loc>https://github.com/rdurango92/Ruben_Portfolio/en/about/</loc>
+    <loc>https://rdurango92.github.io/Ruben_Portfolio/en/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://github.com/rdurango92/Ruben_Portfolio/about/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/rdurango92/Ruben_Portfolio/en/about/"
+                href="https://rdurango92.github.io/Ruben_Portfolio/en/about/"
                 />
   </url>
 </urlset>

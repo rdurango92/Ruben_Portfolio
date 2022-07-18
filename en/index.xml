@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi, I&#39;m Rubén 🤓 on 🌎 Rubén Durango En</title>
-    <link>https://github.com/rdurango92/Ruben_Portfolio/en/</link>
+    <link>https://rdurango92.github.io/Ruben_Portfolio/en/</link>
     <description>Recent content in Hi, I&#39;m Rubén 🤓 on 🌎 Rubén Durango En</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/rdurango92/Ruben_Portfolio/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rdurango92.github.io/Ruben_Portfolio/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Predicting accessibility</title>
-      <link>https://github.com/rdurango92/Ruben_Portfolio/en/post/project-1/</link>
+      <link>https://rdurango92.github.io/Ruben_Portfolio/en/post/project-1/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rdurango92/Ruben_Portfolio/en/post/project-1/</guid>
+      <guid>https://rdurango92.github.io/Ruben_Portfolio/en/post/project-1/</guid>
       <description>Case Study Project - Wheelchair Ramps👩‍🦽 This was a case study proposed on the Datacamp platform, and in this notebook I present my findings.
  Problem Statement and context 📝.  &amp;ldquo;🎊 Congratulations🎉, you have landed your first job as a data scientist at National Accessibility&amp;rdquo;
  National Accessibility currently installs wheelchair ramps for office buildings and schools. However, the marketing manager wants the company to start installing ramps for event venues as well.</description>
@@ -20,19 +20,19 @@
     
     <item>
       <title>📲 Contact</title>
-      <link>https://github.com/rdurango92/Ruben_Portfolio/en/contact/</link>
+      <link>https://rdurango92.github.io/Ruben_Portfolio/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rdurango92/Ruben_Portfolio/en/contact/</guid>
+      <guid>https://rdurango92.github.io/Ruben_Portfolio/en/contact/</guid>
       <description>You can find me on the following platforms 🤗.    Platforms URL 🔗     Kaggle https://www.kaggle.com/rdurango92   LinkedIn https://www.linkedin.com/in/rdurango92/   GitHub https://github.com/rdurango92   Datacamp https://app.datacamp.com/profile/rdurango92   Facebook https://www.facebook.com/ruben.durangor/      You can send me messages to my email: 📧 rdurango92@gmail.com  </description>
     </item>
     
     <item>
       <title>🤖 My Resume</title>
-      <link>https://github.com/rdurango92/Ruben_Portfolio/en/about/</link>
+      <link>https://rdurango92.github.io/Ruben_Portfolio/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rdurango92/Ruben_Portfolio/en/about/</guid>
+      <guid>https://rdurango92.github.io/Ruben_Portfolio/en/about/</guid>
       <description> 🛣️ My Journey  🎓 My Education  </description>
     </item>
     
