@@ -6,7 +6,17 @@
     <description>Recent content in Hola, Soy Rubén 🤓 on 🏠 Rubén Durango󠁧󠁢󠁥</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rdurango92.github.io/Ruben_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rdurango92.github.io/Ruben_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sensorización y Machine Learning 🤖</title>
+      <link>https://rdurango92.github.io/Ruben_Portfolio/post/proyecto-2/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdurango92.github.io/Ruben_Portfolio/post/proyecto-2/</guid>
+      <description>Tabular Playground Series - Apr 2022 Esta fue una competencia en la plataforma Kaggle, y en este notebook presento mis hallazgos.
+ 📃| Introducción Con el auge de la industria 4.0, hoy las personas que trabajamos en la industria tenemos más datos que nunca, esto nos ha puesto nuevos retos para tomar decisiones acertadas basados en la inmensa cantidad de datos que se generan día a día, y nos ha exigido mejorar nuestras habilidades y explorar nuevas herramientas como el análisis de datos y el machine learning, este es un ejemplo de uso.</description>
+    </item>
+    
     <item>
       <title>Prediciendo la Accesibilidad</title>
       <link>https://rdurango92.github.io/Ruben_Portfolio/post/proyecto-1/</link>

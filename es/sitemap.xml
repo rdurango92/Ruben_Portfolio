@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rdurango92.github.io/Ruben_Portfolio/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,11 @@
                 hreflang="es"
                 href="https://rdurango92.github.io/Ruben_Portfolio/"
                 />
+  </url><url>
+    <loc>https://rdurango92.github.io/Ruben_Portfolio/post/proyecto-2/</loc>
+    <lastmod>2022-06-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://rdurango92.github.io/Ruben_Portfolio/post/proyecto-1/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
