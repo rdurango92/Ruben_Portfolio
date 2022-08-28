@@ -8,6 +8,16 @@
     <language>es</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://rdurango92.github.io/Ruben_Portfolio/en/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Sensorization and Machine Learning 🤖</title>
+      <link>https://rdurango92.github.io/Ruben_Portfolio/en/post/project-2/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rdurango92.github.io/Ruben_Portfolio/en/post/project-2/</guid>
+      <description>Tabular Playground Series - Apr 2022 This was a competition on the Kaggle platform, and in this notebook I present my findings.
+ 📃| Introduction With the rise of industry 4.0, people who work in the industry have more data than ever, this has given us new challenges to make the right decisions based on the immense amount of data that is generated every day, and has required us to improve our skills and explore new tools such as data analysis and machine learning, this is an example of use.</description>
+    </item>
+    
+    <item>
       <title>Predicting accessibility</title>
       <link>https://rdurango92.github.io/Ruben_Portfolio/en/post/project-1/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
